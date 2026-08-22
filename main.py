@@ -1,13 +1,13 @@
 # ==============================================================================
-# Gitop: SOVEREIGN TOPOLOGIC ENGINE (v1.0.0 - APEX INSTITUTIONAL ALLIANCE)
+# Gitisses: SOVEREIGN TOPOLOGIC ENGINE (v1.0.0 - APEX INSTITUTIONAL ALLIANCE)
 # Sovereign Creator: Jean Laris
 # Holding: Alantec - Architects of the Future
 # Purpose: Cognitive Sovereignty & Bounded Topological State Architecture
-# GitHub Sponsors: https://github.com/sponsors/Calibrated-Mind
+# Gitissues Sponsors: https://github.com/sponsors/Calibrated-Mind
 # ==============================================================================
 
 """
-Gitop
+Gitissues
 Main engine for bounded topological attraction basins and state tracking.
 Open-source sovereign logic artifact designed for extreme morphological synthesis.
 """
@@ -26,7 +26,7 @@ def sovereign_topologic_basin(n: int, steps: int = 10) -> list[int]:
     return history
 
 if __name__ == "__main__":
-    print("Initializing Gitop.git...")
+    print("Initializing Gitissues.git...")
     print("Trajectory:", sovereign_topologic_basin(13))
 
 
